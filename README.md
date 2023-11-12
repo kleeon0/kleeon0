@@ -1,9 +1,7 @@
 ### Hi there 👋
 
 
-**kleeon0/kleeon0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+**kleeon0/kleeon0** is a ✨ _specialz_ ✨ repository
 
 - 🔭 I’m currently working on machine learning
 - 🌱 I’m currently learning Computer science and AI
